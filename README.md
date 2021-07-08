@@ -9,3 +9,5 @@ Código main com GPIO para identificar o valor do sensor de presença e entrar n
 <p align="center">
   <img src="https://github.com/bgabiz/Sistemas-Embarcados/blob/master/Banco/Images/Test.png?raw=true" alt="Face_Reco"/>
 </p>
+
+
