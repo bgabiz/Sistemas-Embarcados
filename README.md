@@ -1,4 +1,4 @@
-Projeto de um espelho inteligente, que fará interação com o usuário, indicando informações como clima, data, hora, lembretes, como compromissos ou frases motivacionais, o espelho fará a identificação de presença do usuário, a partir de um sensor de presença, em seguida, é feito o reconhecimento facial, após a identificação, um sistema processado na Raspberry Pi 3, será acionado e as informações serão mostradas.
+Projeto de um espelho inteligente, que fará interação com o usuário, indicando informações como clima, data, hora, lembretes, como compromissos ou frases motivacionais, o espelho fará a identificação de presença do usuário, a partir de um sensor de presença, em seguida, é feito o reconhecimento facial, após a identificação, um sistema Linux processado na Raspberry Pi 3, será acionado e as informações serão mostradas.
 
 Para a interface foi utilizado o código Smart Mirror, disponibilizado em https://github.com/MichMich/MagicMirror.
 
