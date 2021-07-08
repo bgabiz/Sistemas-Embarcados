@@ -6,3 +6,4 @@ Código main com GPIO para identificar o valor do sensor de precensa e entrar no
 <p align="center">
   <img src="https://github.com/PedrinAugusto/Sistemas_Embarcados/blob/master/Banco/Images/Test.png?raw=true" alt="Face_Reco"/>
 </p>
+
